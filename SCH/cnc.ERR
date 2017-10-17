@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: G:\Voodoo\CNC\SCH\cnc.net
+SHORTED NETS:
+
+Warning: Net GND shorted to Net EE.GND:
+   * Pad D1-7 at (133.985,189.230) mm
+
+Net List Errors:   0
+Net List Warnings: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+26-Sep-17  10:07                                            Page    1
+
